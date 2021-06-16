@@ -14,7 +14,6 @@ void setup()
   servo_4.attach(10); 
   servo_5.attach(11); 
   pinMode(potentio,INPUT);
-  Serial.begin(9600);
 }
 
 void loop()
